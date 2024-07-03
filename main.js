@@ -83,7 +83,7 @@ const idInvalidCardCompanies = arr => {
     } return result;
 }
 
-console.log(idInvalidCardCompanies(batch));
+//console.log(idInvalidCardCompanies(batch));
 
 
 
